@@ -1,6 +1,6 @@
 # Archery Club Database
 
-![ERD Diagram](./ERD%20FINAL.pdf)
+![ERD Diagram](./ERD%20FINAL.jpg)
 
 ## Project Overview
 This database project was developed to streamline scoring and record-keeping processes for an archery club. The goal is to provide a user-friendly, efficient system for managing archers’ scores, competition data, and championship results while minimizing manual entry and reducing errors.
